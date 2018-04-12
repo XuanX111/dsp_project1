@@ -1,12 +1,15 @@
-# dsp_project1
-New York season:
-winter:12,1,2
+# project_benson
+
+**New York seasons**
+Winter: 12,1,2
 Spring: 3-5
-Summber:6-8
+Summber: 6-8
 Fall: 9-11
 
-time of the day
-morning 5am to 12pm
-afternoon 12pm to 5 pm
-evening 5pm to 9 pm
-night 9 pm to 4 am
+**Time of the Day**
+Morning: 5am to 12pm
+Afternoon: 12pm to 5pm
+Evening: 5pm to 9pm
+Night: 9pm to 4am
+
+**Team Members:** Mattie, Xuan, Alex, Dongping, Iris
